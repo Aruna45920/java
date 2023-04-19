@@ -1,4 +1,4 @@
-class Right_Triangle_Alphabet
+class Triangle_Alphabet
 {
     public static void main(String args[])
     {
