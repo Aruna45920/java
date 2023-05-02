@@ -6,7 +6,6 @@
    */
 
 
-import java.util.*;
 class LeftPattern
 {
     public static void main(String args[])

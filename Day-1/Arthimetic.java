@@ -1,4 +1,4 @@
-import java.util.*;
+
 class Arthimetic
 {
     public static void main(String args[])
