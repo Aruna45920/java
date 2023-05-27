@@ -1,6 +1,5 @@
 import java.util.Arrays;
 
-import javax.lang.model.util.ElementScanner14;
 public class Sorting_zeros_ones_twos {
     public static void main(String[] args) {
         int arr[]={0,1,0,2,2,1,0,1,0,2,1,1,0,2};
